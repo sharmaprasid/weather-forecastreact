@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # weather-forecastreact
-You can check the app at https://weather-forecastreact.herokuapp.com/
+You can check the app at https://reactsweatherapp.netlify.app/
